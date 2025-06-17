@@ -1,19 +1,38 @@
 # 👋 ¡Hola! Soy Rafael - Desarrollador de Software Java
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software con experiencia en el desarrollo de **aplicaciones de escritorio en Java**, especializado en **Java Swing**, **JPA/Hibernate**, y bases de datos **MySQL**. Tengo una sólida base en la programación orientada a objetos y sigo perfeccionando mis habilidades a través de proyectos personales y formación continua.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software colombiano con experiencia en el desarrollo de **aplicaciones de escritorio en Java**, especializado en **Java Swing**, **JPA/Hibernate**, y bases de datos **MySQL**. Tengo una sólida base en la programación orientada a objetos y sigo perfeccionando mis habilidades a través de proyectos personales y formación continua.
 
 ---
 
 ## 🧰 Tecnologías y Herramientas
 
-<p align="center">
+### 💻 Tecnologías principales (Java y backend)
+<p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🧪 Conocimientos generales (nivel básico)
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+### 🧰 IDEs y herramientas
+<p align="left">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
@@ -25,11 +44,10 @@
 
 ## 🧑‍💻 Sobre Mí
 
-- 💻 Desarrollador Java enfocado en construir soluciones funcionales y mantenibles.
-- 📚 Apasionado por el aprendizaje constante y las buenas prácticas de desarrollo.
-- 🔄 Experiencia trabajando con **metodologías ágiles** como **Scrum** y **Kanban**.
-- 🌱 Actualmente aprendiendo **Spring Boot**, **JUnit**, y principios de **arquitectura de software limpia**.
-- 💡 Me gusta desarrollar sistemas con enfoque en experiencia de usuario y funcionalidad robusta.
+- 💻 Desarrollador Java enfocado en construir soluciones funcionales y mantenibles.  
+- 🔄 Experiencia con metodologías ágiles como **Scrum** y **Kanban**.  
+- 🎯 Dominio de la programación orientada a objetos y persistencia de datos.  
+- 💡 Fuerte orientación a resultados y calidad de código.  
 
 ---
 
@@ -37,54 +55,49 @@
 
 ### 🔐 Sistema de Login con Java Swing y JPA
 
-Aplicación de escritorio con un sistema de autenticación de usuarios. Permite el registro, validación y manejo seguro de credenciales. Desarrollado en el contexto de un curso práctico en TodoCode.
-
+Aplicación de escritorio con un sistema de autenticación de usuarios.  
 - Interfaz gráfica en Java Swing  
 - Validación y persistencia de usuarios con JPA  
 - Conexión a base de datos relacional  
 
 ### 🐾 Peluquería Canina - CRUD completo de clientes y mascotas
 
-Sistema orientado a objetos que permite registrar y gestionar información de clientes y sus mascotas en una peluquería.
-
-- CRUD completo (Crear, Leer, Actualizar, Eliminar)  
-- Interfaz de escritorio intuitiva  
-- Base de datos MySQL  
-- Persistencia con JPA / Hibernate  
+Sistema orientado a objetos para registrar y gestionar información de clientes y mascotas.  
+- CRUD completo  
+- Interfaz intuitiva  
+- Persistencia con JPA / Hibernate + MySQL  
 
 ### 🚗 Sistema de Gestión de Vehículos
 
-Aplicación con autenticación de usuarios y gestión de inventario de vehículos.
-
+Aplicación con autenticación de usuarios y gestión de inventario de vehículos.  
 - Sistema de login con validación  
-- Gestión de vehículos: agregar, editar, eliminar  
-- Persistencia de datos con JPA y MySQL  
-- Proyecto realizado con Java 17 y NetBeans  
+- Gestión de vehículos  
+- Persistencia con JPA y MySQL (Java 17 + NetBeans)  
 
-➡️ Puedes ver estos y más proyectos en mis [repositorios públicos](https://github.com/Rafael169).
+➡️ Puedes ver estos y más proyectos en mis [repositorios públicos](https://github.com/Rafael1693).
 
 ---
 
 ## 💼 Experiencia y Formación
 
-- 📘 **Cursos Prácticos**: Java orientado a objetos, Java Desktop con Swing, Persistencia con JPA, MySQL, Git y GitHub.  
-- 💼 Participación en proyectos personales con enfoque profesional.  
-- 🎓 Formación autodidacta y basada en proyectos reales para reforzar habilidades técnicas.  
+- 📘 Tecnólogo en Análisis y Desarrollo de Software (SENA)  
+- 🧪 Formación práctica en Java OO, Swing, JPA, Git, MySQL  
+- 💼 Desarrollo de proyectos personales con enfoque profesional  
 
 ---
 
 ## 🌍 Idiomas
 
 - 🇪🇸 Español: Nativo  
-- 🇬🇧 Inglés: Competencia profesional básica (leyendo documentación técnica, interfaces, etc.)
+- 🇬🇧 Inglés: Competencia profesional básica (lectura técnica)
 
 ---
 
 ## 🤝 ¿En qué estoy interesado?
 
 - ✅ Oportunidades como **Desarrollador Java Junior / Semi Senior**  
-- ✅ Participar en proyectos colaborativos para seguir creciendo profesionalmente  
-- ✅ Contribuir en proyectos de código abierto enfocados en Java o herramientas educativas  
+- ✅ Proyectos colaborativos donde pueda aplicar mis conocimientos  
+- ✅ Contribuir en herramientas educativas o soluciones empresariales  
 
 ---
 
@@ -93,19 +106,6 @@ Aplicación con autenticación de usuarios y gestión de inventario de vehículo
 - 💼 [LinkedIn](https://www.linkedin.com/in/rafael-alv1693/)  
 - ✉️ Correo: r.alvarado1693@gmail.com  
 - 💻 GitHub: [github.com/Rafael1693](https://github.com/Rafael1693)
-
----
-
-## 📈 Estadísticas de GitHub
-
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael1693&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael1693&layout=compact)
-
----
-
-## 🎯 Objetivo Profesional
-
-Mi objetivo es integrarme en un equipo donde pueda aplicar mis conocimientos en Java, crecer profesionalmente y aportar soluciones reales con código limpio y bien estructurado. Me motiva seguir aprendiendo y aportar desde el primer día.
 
 ---
 
