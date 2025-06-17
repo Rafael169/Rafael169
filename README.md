@@ -74,7 +74,7 @@ Aplicación con autenticación de usuarios y gestión de inventario de vehículo
 - Gestión de vehículos  
 - Persistencia con JPA y MySQL (Java 17 + NetBeans)  
 
-➡️ Puedes ver estos y más proyectos en mis [repositorios públicos](https://github.com/Rafael1693).
+➡️ Puedes ver estos y más proyectos en mis [repositorios públicos](https://github.com/Rafael169?tab=repositories).
 
 ---
 
