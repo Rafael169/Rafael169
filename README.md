@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Rafael - Desarrollador de Software Java
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software colombiano con experiencia en el desarrollo de **aplicaciones de escritorio en Java**, especializado en **Java Swing**, **JPA/Hibernate**, y bases de datos **MySQL**. Tengo una sólida base en la programación orientada a objetos y sigo perfeccionando mis habilidades a través de proyectos personales y formación continua.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software con experiencia en el desarrollo de **aplicaciones de escritorio en Java**, especializado en **Java Swing**, **JPA/Hibernate**, y bases de datos **MySQL**. Tengo una sólida base en la programación orientada a objetos y sigo perfeccionando mis habilidades a través de proyectos personales y formación continua.
 
 ---
 
